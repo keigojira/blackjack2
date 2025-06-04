@@ -1,0 +1,20 @@
+# Blackjack2
+
+React + Vite で作ったブラックジャックゲームです。
+
+## 開発用コマンド
+
+- `npm run dev` : ローカル開発サーバー起動
+- `npm run build` : 本番用ビルド
+- `npm run preview` : 本番ビルドのプレビュー
+- `npm run deploy` : GitHub Pagesへデプロイ
+
+## デプロイ手順
+
+1. `npm install`
+2. `npm run deploy`
+3. GitHub のリポジトリの「Settings > Pages」で `gh-pages` ブランチが公開されていることを確認してください。
+
+## GitHub Pages URL
+
+https://keigojira.github.io/blackjack2/
